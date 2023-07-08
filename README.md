@@ -9,7 +9,7 @@ We are asked to create a Python program for the admission department of Humber C
 #### System Requirements:
 1) When the program starts, a welcoming message will appear: "Welcome to Humber College."
 
-[image](https://github.com/vcmeghan/Python-Admission-Program/assets/100189862/627042ee-5a97-4ef5-8097-8153d0654872)
+![image](https://github.com/vcmeghan/Python-Admission-Program/assets/100189862/5e074fd5-1eed-4365-b376-27f5129ad4c4)
 
 2) Allow the user to login using a password with following rules:
     + Should not be less than 10 characters.
