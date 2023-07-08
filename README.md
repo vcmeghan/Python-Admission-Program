@@ -3,12 +3,13 @@
 #### Introduction:
 We are asked to create a Python program for the admission department of Humber College. The system should store information about the newly admitted students and assign them to schools according to their GPA. The system must prompt the user to enter the name of each student, and the grades of the courses they completed in the high school. Then, the system should calculate the GPA and use it to assign students the schools.
 
-<img width="1002" alt="image" src="https://github.com/vcmeghan/python-space/assets/100189862/aaaaf2ec-01d6-4ffe-89ba-1da7b0e9770a">
+<img width="1001" alt="image" src="https://github.com/vcmeghan/Python-Admission-Program/assets/100189862/b090be25-200b-46d6-a258-1572f4fd895b">
+
 
 #### System Requirements:
 1) When the program starts, a welcoming message will appear: "Welcome to Humber College."
 
-![image](https://github.com/vcmeghan/Python-Admission-Program/assets/100189862/627042ee-5a97-4ef5-8097-8153d0654872)
+[image](https://github.com/vcmeghan/Python-Admission-Program/assets/100189862/627042ee-5a97-4ef5-8097-8153d0654872)
 
 2) Allow the user to login using a password with following rules:
     + Should not be less than 10 characters.
