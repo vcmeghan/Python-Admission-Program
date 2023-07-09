@@ -1,4 +1,4 @@
-# Python Group Final Project 2022 -- Humber College
+Python Group Final Project 2022 -- Humber College
 
 #### Introduction:
 We are asked to create a Python program for the admission department of Humber College. The system should store information about the newly admitted students and assign them to schools according to their GPA. The system must prompt the user to enter the name of each student, and the grades of the courses they completed in the high school. Then, the system should calculate the GPA and use it to assign students the schools.
